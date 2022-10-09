@@ -10,4 +10,4 @@ VANTA.DOTS({
     color: 0x2020ff,
     color2: 0x20ffff,
     backgroundColor: 0x0
-  });
+});
